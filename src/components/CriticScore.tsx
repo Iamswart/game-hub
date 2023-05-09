@@ -14,3 +14,5 @@ let color = score > 75 ? 'green' : score > 65 ? 'yellow' : '';
 }
 
 export default CriticScore
+
+
